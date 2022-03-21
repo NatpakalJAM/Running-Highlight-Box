@@ -19,4 +19,4 @@
 
 ## Try on CodePen
 
-[Try on CodePen](https://codepen.io/Casnova_JAM/pen/mdpEGJg)
+[Try on CodePen](https://codepen.io/NatpakalJam/pen/mdpEGJg)
