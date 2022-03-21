@@ -1,0 +1,16 @@
+.bg-normal {
+    position: relative;
+    pointer-events: none;
+}
+
+.bg-animate {
+    position: absolute;
+    z-index: 1;
+    pointer-events: none;
+    animation: animationFrames ease-in-out 0.8s;
+    animation-iteration-count: infinite;
+    transform-origin: 50% 50%;
+    -webkit-animation: animationFrames ease-in-out 0.8s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-transform-origin: 50% 50%;
+}
